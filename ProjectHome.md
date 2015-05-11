@@ -1,0 +1,4 @@
+MS Outlook (for the love of god!) can't import all the contacts from a single large vCARD (the .VCF) file; it shows just the first contact.
+Address Book on Mac OSX, on the other hand, can understand multiple vCards inside single vCard.  But the caveat is, it will NOT let you examine the contacts in the file unless you have imported (and in the process clobbered) your address book with all the new contacts.
+
+That's where this script comes in handy, it writes out individual contacts into a separate file with (file name being, you guessed it! full name of the contact with illegal characters replaced appropriately).
